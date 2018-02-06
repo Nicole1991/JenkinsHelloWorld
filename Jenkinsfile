@@ -1,6 +1,6 @@
 node{
     stage('git clone'){
-       git url: 'https://github.com/xbox1994/chicken-html.git'
+       git url: 'https://github.com/Nicole1991/JenkinsHelloWorld.git'
     }
 
     stage('test'){
